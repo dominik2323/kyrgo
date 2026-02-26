@@ -25,7 +25,7 @@ Getting south through the guts of Kyrgyzstan. Soviet ghosts, mountain passes, vi
 
 ### Urbexes
 
-**Min-Kush**
+**Min-Kush (F)**
 Soviet uranium ghost town. Population dropped from 20k to 2k. Decaying apartment blocks, massive Lenin statue, cultural center with preserved murals, abandoned school and hospital. Haunting. Some radiation in mining areas — don't lick the walls.
 - 41.6833, 74.4667 — [Open in Maps](https://www.google.com/maps?q=41.6833,74.4667)
 - [Lost With Purpose](https://www.lostwithpurpose.com/min-kush-kyrgyzstan/)
@@ -35,9 +35,9 @@ Soviet uranium ghost town. Population dropped from 20k to 2k. Decaying apartment
 
 | Name                         | Diff        | Dist     | Time     | Coords | Links |
 | ---------------------------- | ----------- | -------- | -------- | ------ | ----- |
-| Ala Archa — Ak-Sai Waterfall | Easy-Medium | 8 km RT  | 2-3h     | 42.5475, 74.4846 | [Info](https://www.backpackadventures.org/ala-archa-national-park/) |
-| Ala Archa — Adygene Valley   | Medium      | 14 km RT | 6-8h     | 42.5475, 74.4846 | [Info](https://central-asia.guide/kyrgyzstan/destinations-kg/bishkek/ala-archa/) |
-| Konorchek Canyon             | Easy        | 11 km RT | 2-4h     | 42.45, 75.90 | [Info](https://www.gorgeousunknown.com/konorchek-red-rock-canyon-how-to-visit-and-hike/) |
+| Ala Archa — Ak-Sai Waterfall (F) | Easy-Medium | 8 km RT  | 2-3h     | 42.5475, 74.4846 | [Info](https://www.backpackadventures.org/ala-archa-national-park/) |
+| Ala Archa — Adygene Valley (F)   | Medium      | 14 km RT | 6-8h     | 42.5475, 74.4846 | [Info](https://central-asia.guide/kyrgyzstan/destinations-kg/bishkek/ala-archa/) |
+| Konorchek Canyon (F)         | Easy        | 11 km RT | 2-4h     | 42.45, 75.90 | [Info](https://www.gorgeousunknown.com/konorchek-red-rock-canyon-how-to-visit-and-hike/) |
 | Kol-Ukok Lake                | Medium      | ~34 km   | 2 days   | 42.10, 75.65 | [Info](https://www.alltrails.com/trail/kyrgyzstan/naryn/kol-ukok-lake) |
 | Kyzart Pass → Song-Kul       | Medium      | ~30 km   | 2-3 days | 42.08, 75.52 | [GPX](https://www.tim-tense.com/trek-song-kul-from-kyzart-pass/) |
 
@@ -70,15 +70,31 @@ Best Kyrgyz food is homemade. CBT arranges homestays where families cook traditi
 
 ### Worth a Stop
 
-**Burana Tower**
+**Burana Tower (F)**
 11th century minaret, 25m tall (was 45m before earthquakes). Balbals (ancient gravestones) collection nearby. Small museum. Climb to top for mountain views. 150 som entry.
 - 42.7463, 75.2502 — [Open in Maps](https://www.google.com/maps?q=42.7463,75.2502)
 - [Central Asia Guide](https://central-asia.guide/kyrgyzstan/destinations-kg/bishkek/burana-tower/)
 
-**Konorchek Canyon**
+**Konorchek Canyon (F)**
 Red sandstone formations like mini Grand Canyon. Free entry. Bring water — desert dry.
 - 42.45, 75.90 — [Open in Maps](https://www.google.com/maps?q=42.45,75.90)
 - [Megan Starr](https://www.meganstarr.com/konorchek-canyon-red-bridge-kyrgyzstan/)
+
+**Kochkor (F)**
+Gateway town to Son-Kul. Felt-making workshops, CBT office, good lunch stop.
+- 42.2131, 75.7575 — [Open in Maps](https://www.google.com/maps?q=42.2131,75.7575)
+
+**Шаркыратма — Waterfall Song-Kol (F)**
+Waterfall near the shores of Song-Kol. Less visited than main lake viewpoints.
+- 41.85, 75.08 — [Open in Maps](https://www.google.com/maps?q=41.85,75.08)
+
+**Ulush Yurts (F)**
+Authentic yurt camp near Song-Kol. Good for the "sleep in a yurt" bucket list item.
+- 41.83, 75.15 — [Open in Maps](https://www.google.com/maps?q=41.83,75.15)
+
+**Moldo-Ashuu Pass (F)**
+3,346m pass on the road to Song-Kol. Dramatic alpine scenery, possible snow in April.
+- 41.63, 75.42 — [Open in Maps](https://www.google.com/maps?q=41.63,75.42)
 
 ---
 
@@ -100,11 +116,11 @@ Soviet uranium mine and processing plant (1949-1967). Derelict infrastructure lo
 | Skazka (Fairytale) Canyon       | Easy   | ~4 km     | 2-3h     | 42.1607, 77.3309 | [Info](https://www.backpackadventures.org/skazka-canyon/) |
 | Jeti-Oguz — Seven Bulls         | Easy   | 1-2 km    | 30min    | 42.3167, 77.7833 | [Info](https://www.backpackadventures.org/jeti-oguz-kyrgyzstan/) |
 | Jeti-Oguz — Valley of Flowers   | Medium | Variable  | Half day | 42.3167, 77.7833 | [Info](https://central-asia.guide/kyrgyzstan/destinations-kg/issyk-kul/jeti-oguz/) |
-| Barskoon Waterfalls             | Medium | 3 km loop | 2-2.5h   | 42.002, 77.577 | [Info](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/barskoon-waterfalls) |
+| Barskoon Waterfalls (F)         | Medium | 3 km loop | 2-2.5h   | 42.002, 77.577 | [Info](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/barskoon-waterfalls) |
 
 ### Soviet Stuff & Monuments
 
-**Gagarin Bust (Barskoon)**
+**Gagarin Bust (Barskoon) (F)**
 Concrete bust of Yuri Gagarin at the waterfall trailhead. He vacationed on Issyk-Kul's south shore after his spaceflight. Soviet lorry mounted on plinth nearby.
 - 42.002, 77.577 — [Open in Maps](https://www.google.com/maps?q=42.002,77.577)
 - [Wikipedia](https://en.wikipedia.org/wiki/Barskoon_Waterfall)
@@ -128,15 +144,35 @@ Nomad families cook traditional food. Kymyz (fermented mare's milk), beshbarmak,
 
 ### Worth a Stop
 
-**Skazka Canyon**
+**Skazka Canyon (F)**
 Martian landscape on Issyk-Kul's south shore. Red sandstone formations eroded into castles and dragons. Best at sunset. 50 som entry.
 - 42.1607, 77.3309 — [Open in Maps](https://www.google.com/maps?q=42.1607,77.3309)
 - [The Planet Edit](https://www.theplanetedit.com/skazka-canyon-kyrgyzstan/)
 
-**Jeti-Oguz (Seven Bulls)**
+**Jeti-Oguz (Seven Bulls) (F)**
 Iconic red rock fins rising from green hills. "Broken Heart" rock across the road. Legend involves a khan, a woman, and seven bulls.
 - 42.3167, 77.7833 — [Open in Maps](https://www.google.com/maps?q=42.3167,77.7833)
 - [Zig Zag on Earth](https://www.zigzagonearth.com/jeti-oguz-kyrgyzstan/)
+
+**Ring of Fire (F)**
+Red rock formations near Bokonbayevo. Less crowded alternative to Skazka. Dramatic erosion patterns.
+- 42.1133, 76.9783 — [Open in Maps](https://www.google.com/maps?q=42.1133,76.9783)
+
+**Teskey-Torpok (F)**
+Red rock formations on south shore between Skazka and Bokonbayevo. Another "mini canyon" worth a stop.
+- 42.1333, 77.2000 — [Open in Maps](https://www.google.com/maps?q=42.1333,77.2000)
+
+**Tastar-Ata (F)**
+Sacred pilgrimage site and hiking area. Petroglyphs and spiritual significance for locals.
+- 42.4167, 77.1667 — [Open in Maps](https://www.google.com/maps?q=42.4167,77.1667)
+
+**Arabel Pass Top Observation Point (F)**
+High-altitude viewpoint at ~3,900m on the road between Barskoon and the Kumtor mine. Dramatic mountain views.
+- 41.9167, 77.4167 — [Open in Maps](https://www.google.com/maps?q=41.9167,77.4167)
+
+**Barskoon (F)**
+Village with access to waterfalls and Gagarin monument. Gateway to Arabel Pass.
+- 42.10, 77.55 — [Open in Maps](https://www.google.com/maps?q=42.10,77.55)
 
 **Kalmak-Ashuu Pass**
 3,440m pass between Son-Kul and Issyk-Kul. Summer pastures, yurts, cattle, mountains. One of Kyrgyzstan's best drives.
@@ -170,7 +206,7 @@ Another abandoned camp on south shore. Still has a Lenin monument standing.
 
 | Name                       | Diff   | Dist          | Time     | Coords | Links |
 | -------------------------- | ------ | ------------- | -------- | ------ | ----- |
-| Altyn-Arashan Hot Springs  | Medium | 15 km one way | 5-6h     | 42.43, 78.55 | [Info](https://www.backpackadventures.org/altyn-arashan-kyrgyzstan/) |
+| Altyn-Arashan Hot Springs (F) | Medium | 15 km one way | 5-6h     | 42.43, 78.55 | [Info](https://www.backpackadventures.org/altyn-arashan-kyrgyzstan/) |
 | Ala-Kul Lake Trek          | Hard   | ~55 km        | 3-4 days | 42.43, 78.55 | [Info](https://beyondwildplaces.com/guide-to-the-ala-kul-trek-kyrgyzstan/) |
 | Jolgolot Viewpoint         | Easy   | Short         | 2h       | 42.49, 78.39 | [Info](https://destinationkarakol.com/what-to-do/day-trips/) |
 | Kol-Tor Lake               | Hard   | ~16 km        | Full day | 42.49, 78.39 | [Info](https://destinationkarakol.com/what-to-do/trekking/) |
@@ -182,6 +218,10 @@ Ship-shaped brutalist sanatorium built 1979 for Communist Party elite. Still ope
 - 42.67, 77.33 — [Open in Maps](https://www.google.com/maps?q=42.67,77.33)
 - [Live the World](https://www.livetheworld.com/activities/kyrgyzstan/aurora-sanatorium-cholpon-ata)
 - [Lyuba Tours](https://lyubatours.com/blog/aurora-sanatorium)
+
+**Aalam Ordo (F)**
+Cultural center near Cholpon-Ata. Soviet-meets-Kyrgyz architecture, sculptures, philosophical complex. Unusual and photogenic.
+- 42.6550, 77.0550 — [Open in Maps](https://www.google.com/maps?q=42.6550,77.0550)
 
 **Issyk-Ata Sanatorium**
 Near Bishkek. One of Central Asia's oldest. WW2 soldier treatment center. Mass grave on overlooking hill. Still treats radiation illness from Chernobyl.
@@ -209,8 +249,9 @@ Bogu Bazaar. Multiple stalls serving Karakol's signature dish. Saida's does 600 
 - [Atlas Obscura](https://www.atlasobscura.com/articles/what-to-eat-kyrgyzstan)
 - [Destination Karakol](https://destinationkarakol.com/food-drink/kyrgyz-food/)
 
-**Dungan Family Dinner**
+**Dungan Family Dinner (F)**
 Book through Destination Karakol. Home-cooked ashlan-fu, ganfan, tomomo desserts. ~$17/person with transport. Minimum 4 people.
+- 42.4907, 78.3936 — [Open in Maps](https://www.google.com/maps?q=42.4907,78.3936)
 - [Destination Karakol](https://destinationkarakol.com/food-drink/kyrgyz-food/)
 
 **Uyghur Home Dinner**
@@ -219,7 +260,7 @@ Rare dishes like goshnan (meat pie) you can't get in restaurants. Through Destin
 
 ### Worth a Stop
 
-**Altyn-Arashan Hot Springs**
+**Altyn-Arashan Hot Springs (F)**
 Natural hot springs at end of 15km trek. Soviet-era huts, alpine meadows, views of snow-capped Palatka peak. Worth the walk.
 - 42.43, 78.55 — [Open in Maps](https://www.google.com/maps?q=42.43,78.55)
 - [See Her Travel](https://www.seehertravel.com/best-hiking-altyn-arashan-kyrgyzstan/)
@@ -233,6 +274,76 @@ Melting pot — Kyrgyz, Dungan, Tatar, Uyghur, Russian. Best food scene in the c
 60km from Karakol. Former coal mining village turned adventure tourism hub. Less crowded trails, CBT community tourism. Good for hiking and horse treks.
 - 42.507, 78.978 — [Open in Maps](https://www.google.com/maps?q=42.507,78.978)
 - [Journal of Nomads](https://www.journalofnomads.com/hiking-in-kyrgyzstan-jyrgalan-karakol/)
+
+---
+
+## Bishkek (F)
+
+Things to see if you have time before/after the trip or on the last day.
+
+**State History Museum (F)**
+Massive Soviet-era museum on Ala-Too Square. Kyrgyz history from nomads to independence. Worth a quick visit.
+- 42.8747, 74.5978 — [Open in Maps](https://www.google.com/maps?q=42.8747,74.5978)
+
+**Great Emptiness Museum (F)**
+Underground Soviet bunker turned art space. Nuclear shelter vibes meets contemporary installations.
+- 42.8747, 74.6122 — [Open in Maps](https://www.google.com/maps?q=42.8747,74.6122)
+
+**Osh Bazaar (F)**
+Massive chaotic market. Food, clothes, everything. The real Bishkek experience. Good for cheap supplies.
+- 42.8747, 74.5894 — [Open in Maps](https://www.google.com/maps?q=42.8747,74.5894)
+
+**Panfilov Park (F)**
+Central park with Soviet monuments. Good for a walk. Near the center.
+- 42.8747, 74.6050 — [Open in Maps](https://www.google.com/maps?q=42.8747,74.6050)
+
+**Kyrgyz State Circus (F)**
+Soviet-era circus building. Shows still run. Worth checking the schedule.
+- 42.8700, 74.5800 — [Open in Maps](https://www.google.com/maps?q=42.8700,74.5800)
+
+---
+
+## Beyond This Trip (F)
+
+Places from the map that are too far for April but worth noting for future trips.
+
+### Osh Region
+
+**Sulaiman Mountain Museum (F)**
+UNESCO site. Sacred mountain in the middle of Osh city. Museum built into the rock. Pilgrimage site for centuries.
+- 39.7275, 72.7956 — [Open in Maps](https://www.google.com/maps?q=39.7275,72.7956)
+
+**Arslanbob (F)**
+Village in the world's largest walnut forest. Waterfalls, horse treks, CBT homestays. Very different vibe from north.
+- 41.3333, 72.9333 — [Open in Maps](https://www.google.com/maps?q=41.3333,72.9333)
+
+**Saimaluu Tash (F)**
+One of the largest petroglyph sites in Central Asia. 10,000+ Bronze Age carvings at 3,000m. Hard to reach — 2-day trek or horse ride.
+- 41.4333, 73.2333 — [Open in Maps](https://www.google.com/maps?q=41.4333,73.2333)
+
+### Naryn Region
+
+**Tash Rabat (F)**
+15th century stone caravanserai at 3,200m. Remarkably intact Silk Road waystation. Remote, atmospheric, worth the detour.
+- 40.8500, 75.2833 — [Open in Maps](https://www.google.com/maps?q=40.8500,75.2833)
+
+**Köl-Suu (F)**
+Stunning turquoise lake near Chinese border. Remote, requires permit and 4x4. One of the most beautiful spots in Kyrgyzstan.
+- 40.9817, 76.0100 — [Open in Maps](https://www.google.com/maps?q=40.9817,76.0100)
+
+### Karakol Region (Remote)
+
+**Enilchek (F)**
+Former mining town, gateway to South Inylchek Glacier and Khan Tengri base camp. Serious mountaineering territory.
+- 42.2167, 79.5333 — [Open in Maps](https://www.google.com/maps?q=42.2167,79.5333)
+
+**Khrebet Sarydzhaz (F)**
+Mountain range on the Chinese border. Includes Khan Tengri (6,995m). Expedition-level stuff.
+- 42.2000, 79.5000 — [Open in Maps](https://www.google.com/maps?q=42.2000,79.5000)
+
+**Yrdyk (F)**
+Remote area east of Karakol. Less visited, rugged landscapes.
+- 42.4000, 79.0000 — [Open in Maps](https://www.google.com/maps?q=42.4000,79.0000)
 
 ---
 
