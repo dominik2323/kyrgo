@@ -33,13 +33,13 @@ Getting south through the guts of Kyrgyzstan. Soviet ghosts, mountain passes, vi
 
 ### Hikes
 
-| Name | Diff | Dist | Time | Coords | Links |
-| ---- | ---- | ---- | ---- | ------ | ----- |
-| Ala Archa — Ak-Sai Waterfall (F) | Easy-Medium | 8 km RT | 2-3h | [42.5475, 74.4846](https://www.google.com/maps?q=42.5475,74.4846) | [Info](https://www.backpackadventures.org/ala-archa-national-park/) |
-| Ala Archa — Adygene Valley (F) | Medium | 14 km RT | 6-8h | [42.5475, 74.4846](https://www.google.com/maps?q=42.5475,74.4846) | [Info](https://central-asia.guide/kyrgyzstan/destinations-kg/bishkek/ala-archa/) |
-| Konorchek Canyon (F) | Easy | 11 km RT | 2-4h | [42.45, 75.90](https://www.google.com/maps?q=42.45,75.90) | [Info](https://www.gorgeousunknown.com/konorchek-red-rock-canyon-how-to-visit-and-hike/) |
-| Kol-Ukok Lake | Medium | ~34 km | 2 days | [42.10, 75.65](https://www.google.com/maps?q=42.10,75.65) | [Info](https://www.alltrails.com/trail/kyrgyzstan/naryn/kol-ukok-lake) |
-| Kyzart Pass → Song-Kul | Medium | ~30 km | 2-3 days | [42.08, 75.52](https://www.google.com/maps?q=42.08,75.52) | [GPX](https://www.tim-tense.com/trek-song-kul-from-kyzart-pass/) |
+| Name | Diff | Dist | Time | GPX Tracks |
+| ---- | ---- | ---- | ---- | ---------- |
+| Ala Archa — Ak-Sai Waterfall (F) | Easy-Medium | 8 km RT | 2-3h | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/ak-sai-waterfall) ⭐ 4.5 · [Wikiloc](https://www.wikiloc.com/hiking-trails/ak-sai-waterfall-ala-archa-kyrgyzstan-174079543) |
+| Ala Archa — Adygene Valley (F) | Medium | 14 km RT | 6-8h | [Wikiloc](https://www.wikiloc.com/trails/hiking/kyrgyzstan/chuy/ala-archa-alplegri) · [AllTrails Park](https://www.alltrails.com/parks/kyrgyzstan/ala-archa-national-park) |
+| Konorchek Canyon (F) | Easy | 11 km RT | 2-4h | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/konorchek-canyons) · [Wikiloc](https://www.wikiloc.com/hiking-trails/konorchek-canyon-174674156) |
+| Kol-Ukok Lake | Medium | ~34 km | 2 days | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/naryn/kol-ukok-lake) · [Wikiloc](https://www.wikiloc.com/hiking-trails/kol-ukok-2009455) |
+| Kyzart Pass → Song-Kul | Medium | ~30 km | 2-3 days | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/naryn/kyzart-to-song-kol-lake-via-tuz-ashuu-pass) · [Wikiloc](https://www.wikiloc.com/hiking-trails/kyzart-song-kul-via-uzbek-ashuu-pass-179360813) · [Tim Tense GPX](https://www.tim-tense.com/trek-song-kul-from-kyzart-pass/) |
 
 ### Soviet Stuff & Monuments
 
@@ -81,12 +81,12 @@ South shore of Issyk-Kul has the red mountains and scenic canyons. Son-Kul itsel
 
 ### Hikes
 
-| Name | Diff | Dist | Time | Coords | Links |
-| ---- | ---- | ---- | ---- | ------ | ----- |
-| Skazka (Fairytale) Canyon | Easy | ~4 km | 2-3h | [42.1607, 77.3309](https://www.google.com/maps?q=42.1607,77.3309) | [Info](https://www.backpackadventures.org/skazka-canyon/) |
-| Jeti-Oguz — Seven Bulls | Easy | 1-2 km | 30min | [42.3167, 77.7833](https://www.google.com/maps?q=42.3167,77.7833) | [Info](https://www.backpackadventures.org/jeti-oguz-kyrgyzstan/) |
-| Jeti-Oguz — Valley of Flowers | Medium | Variable | Half day | [42.3167, 77.7833](https://www.google.com/maps?q=42.3167,77.7833) | [Info](https://central-asia.guide/kyrgyzstan/destinations-kg/issyk-kul/jeti-oguz/) |
-| Barskoon Waterfalls (F) | Medium | 3 km loop | 2-2.5h | [42.002, 77.577](https://www.google.com/maps?q=42.002,77.577) | [Info](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/barskoon-waterfalls) |
+| Name | Diff | Dist | Time | GPX Tracks |
+| ---- | ---- | ---- | ---- | ---------- |
+| Skazka (Fairytale) Canyon | Easy | ~4 km | 2-3h | [Komoot](https://www.komoot.com/highlight/3084664) · [Wikiloc Region](https://www.wikiloc.com/trails/hiking/kyrgyzstan/ysyk-kol) |
+| Jeti-Oguz — Seven Bulls | Easy | 1-2 km | 30min | [AllTrails Area](https://www.alltrails.com/kyrgyzstan/ysyk-kol/jeti-oguz) · [Bekin Trail](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/bekin-baiserkeev-trail) |
+| Jeti-Oguz — Valley of Flowers | Medium | Variable | Half day | [AllTrails Area](https://www.alltrails.com/kyrgyzstan/ysyk-kol/jeti-oguz) · [Teleti Valley](https://www.alltrails.com/en-gb/poi/kyrgyzstan/issyk-kul/-/canyon-jeti-oguz) |
+| Barskoon Waterfalls (F) | Medium | 3 km loop | 2-2.5h | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/barskoon-waterfalls) ⭐ 4.4 |
 
 ### Soviet Stuff & Monuments
 
@@ -131,12 +131,12 @@ Final stretch. Karakol is the adventure hub — Dungan culture, best food in Kyr
 
 ### Hikes
 
-| Name | Diff | Dist | Time | Coords | Links |
-| ---- | ---- | ---- | ---- | ------ | ----- |
-| Altyn-Arashan Hot Springs (F) | Medium | 15 km one way | 5-6h | [42.43, 78.55](https://www.google.com/maps?q=42.43,78.55) | [Info](https://www.backpackadventures.org/altyn-arashan-kyrgyzstan/) |
-| Ala-Kul Lake Trek | Hard | ~55 km | 3-4 days | [42.43, 78.55](https://www.google.com/maps?q=42.43,78.55) | [Info](https://beyondwildplaces.com/guide-to-the-ala-kul-trek-kyrgyzstan/) |
-| Jolgolot Viewpoint | Easy | Short | 2h | [42.49, 78.39](https://www.google.com/maps?q=42.49,78.39) | [Info](https://destinationkarakol.com/what-to-do/day-trips/) |
-| Kol-Tor Lake | Hard | ~16 km | Full day | [42.49, 78.39](https://www.google.com/maps?q=42.49,78.39) | [Info](https://destinationkarakol.com/what-to-do/trekking/) |
+| Name | Diff | Dist | Time | GPX Tracks |
+| ---- | ---- | ---- | ---- | ---------- |
+| Altyn-Arashan Hot Springs (F) | Medium | 15 km one way | 5-6h | [AllTrails](https://www.alltrails.com/poi/kyrgyzstan/issyk-kul/altyn-arashan/%D0%90%D0%BB%D1%82%D1%8B%D0%BD-%D0%90%D1%80%D0%B0%D1%88%D0%B0%D0%BD) · [Komoot](https://www.komoot.com/highlight/988710) |
+| Ala-Kul Lake Trek | Hard | ~55 km | 3-4 days | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/ala-kol-lake) ⭐ 4.8 · [Komoot 3-Day](https://www.komoot.com/collection/889928/stunning-kyrgyzstan-a-three-day-hike-to-ala-kul-lake) · [Wikiloc](https://www.wikiloc.com/hiking-trails/ala-kul-lake-trek-kyrgyzstan-179589487) |
+| Jolgolot Viewpoint | Easy | Short | 2h | [Karakol Day Trips](https://destinationkarakol.com/what-to-do/day-trips/) |
+| Kol-Tor Lake | Hard | ~16 km | Full day | [Wikiloc](https://www.wikiloc.com/hiking-trails/kol-tor-lake-hike-kyrgyzstan-174343719) |
 
 ### Soviet Stuff & Monuments
 
