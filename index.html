@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyrgyzstan Adventure Map</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Leaflet Elevation CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@2.5.0/dist/leaflet-elevation.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div id="map"></div>
+
+    <!-- Legend -->
+    <div id="legend">
+        <h3>Legend</h3>
+        <div class="legend-section">
+            <h4>GPX Tracks</h4>
+            <div class="legend-item">
+                <span class="legend-line" style="background: #e74c3c;"></span>
+                <span>Ak-Sai Waterfall</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-line" style="background: #e67e22;"></span>
+                <span>Racek Hut & Glacier</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-line" style="background: #f1c40f;"></span>
+                <span>Konorchek Canyons</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-line" style="background: #2ecc71;"></span>
+                <span>Kol-Ukok Lake</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-line" style="background: #3498db;"></span>
+                <span>Lake Ala-Kol</span>
+            </div>
+        </div>
+        <div class="legend-section">
+            <h4>Locations</h4>
+            <div class="legend-item">
+                <span class="legend-marker" style="background: #e74c3c;"></span>
+                <span>Urbex</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-marker" style="background: #9b59b6;"></span>
+                <span>Monument</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-marker" style="background: #27ae60;"></span>
+                <span>Hike</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-marker" style="background: #f39c12;"></span>
+                <span>Food</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-marker" style="background: #3498db;"></span>
+                <span>Worth a Stop</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-marker" style="background: #95a5a6;"></span>
+                <span>Future Trip</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Elevation container -->
+    <div id="elevation-container">
+        <div id="elevation"></div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Leaflet GPX plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
+
+    <!-- D3 for elevation charts -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Leaflet Elevation plugin -->
+    <script src="https://unpkg.com/@raruto/leaflet-elevation@2.5.0/dist/leaflet-elevation.js"></script>
+
+    <!-- Custom JS -->
+    <script src="js/map.js"></script>
+</body>
+</html>
