@@ -1,12 +1,23 @@
 {
   "gpxTracks": [
     {
+      "id": "bishkek-to-sonkol",
+      "name": "Bishkek to Son-Kol",
+      "file": "roadmap/01-biskek-sonkul/assets/00-bishkek-to-sonkol.gpx",
+      "distance": "~280 km",
+      "time": "6-8h",
+      "type": "One way",
+      "routeType": "car",
+      "color": "#34495e"
+    },
+    {
       "id": "ak-sai-waterfall",
       "name": "Ak-Sai Waterfall",
       "file": "roadmap/01-biskek-sonkul/assets/01-ak-sai-waterfall-map.gpx",
       "distance": "8 km",
       "time": "4-4.5h",
       "type": "Out and back",
+      "routeType": "hike",
       "color": "#e74c3c"
     },
     {
@@ -16,6 +27,7 @@
       "distance": "13 km",
       "time": "Full day",
       "type": "Out and back",
+      "routeType": "hike",
       "color": "#e67e22"
     },
     {
@@ -25,6 +37,7 @@
       "distance": "13 km",
       "time": "2-4h",
       "type": "Out and back",
+      "routeType": "hike",
       "color": "#f1c40f"
     },
     {
@@ -34,6 +47,7 @@
       "distance": "34 km",
       "time": "2 days",
       "type": "Out and back",
+      "routeType": "hike",
       "color": "#2ecc71"
     },
     {
@@ -43,6 +57,7 @@
       "distance": "40 km",
       "time": "2 days",
       "type": "Out and back",
+      "routeType": "hike",
       "color": "#3498db"
     }
   ],

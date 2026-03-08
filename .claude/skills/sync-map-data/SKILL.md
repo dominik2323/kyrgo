@@ -48,7 +48,12 @@ Extract coordinates from Google Maps links:
 For each GPX file found:
 - Match to the corresponding row in the Hikes table by filename pattern
 - Extract: name, distance, time, type (Out and back, Loop, etc.)
-- Assign colors in order: #e74c3c, #e67e22, #f1c40f, #2ecc71, #3498db, #9b59b6, #1abc9c, #e91e63
+- Determine routeType based on filename or table context:
+  - Files with `00-` prefix or containing "to" in name (e.g., `00-bishkek-to-sonkol.gpx`) → routeType: "car"
+  - All other GPX files → routeType: "hike"
+- Assign colors:
+  - Car routes: #34495e (dark gray)
+  - Hiking trails: cycle through #e74c3c, #e67e22, #f1c40f, #2ecc71, #3498db, #9b59b6, #1abc9c, #e91e63
 
 ### Description Extraction
 - For table-based entries: use the "Description" column
@@ -68,6 +73,7 @@ The `data/locations.json` file should follow this structure:
       "distance": "X km",
       "time": "Xh or X days",
       "type": "Out and back",
+      "routeType": "hike|car",
       "color": "#hexcolor"
     }
   ],

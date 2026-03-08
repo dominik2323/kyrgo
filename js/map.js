@@ -58,6 +58,22 @@ let currentElevationControl = null;
 // Load GPX tracks
 function loadGPXTracks(tracks) {
     tracks.forEach(track => {
+        const isCarRoute = track.routeType === 'car';
+
+        // Different styles for car vs hike routes
+        const polylineOptions = isCarRoute ? {
+            color: track.color,
+            weight: 4,
+            opacity: 0.9,
+            dashArray: '10, 10',
+            lineCap: 'butt'
+        } : {
+            color: track.color,
+            weight: 4,
+            opacity: 0.8,
+            lineCap: 'round'
+        };
+
         const gpxLayer = new L.GPX(track.file, {
             async: true,
             marker_options: {
@@ -65,22 +81,21 @@ function loadGPXTracks(tracks) {
                 endIconUrl: null,
                 shadowUrl: null
             },
-            polyline_options: {
-                color: track.color,
-                weight: 4,
-                opacity: 0.8,
-                lineCap: 'round'
-            }
+            polyline_options: polylineOptions
         });
 
         gpxLayer.on('loaded', function(e) {
             const gpx = e.target;
             gpxLayers[track.id] = gpx;
 
+            const routeTypeLabel = isCarRoute ? 'Car' : 'Hike';
+            const routeTypeClass = isCarRoute ? 'car' : 'hike';
+
             // Bind popup with track info
             gpx.bindPopup(`
                 <div class="gpx-popup">
                     <div class="popup-title">${track.name}</div>
+                    <span class="popup-route-type ${routeTypeClass}">${routeTypeLabel}</span>
                     <div class="popup-stats">
                         <span>${track.distance}</span>
                         <span>${track.time}</span>
