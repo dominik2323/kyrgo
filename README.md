@@ -12,6 +12,23 @@
 
 ---
 
+## Rough Timeline
+
+| Day | Date   | Vague Plan                            |
+| --- | ------ | ------------------------------------- |
+| 1   | Apr 3  | Land 3am. Grab car. Rest. Maybe move? |
+| 2   | Apr 4  |                                       |
+| 3   | Apr 5  |                                       |
+| 4   | Apr 6  |                                       |
+| 5   | Apr 7  |                                       |
+| 6   | Apr 8  |                                       |
+| 7   | Apr 9  |                                       |
+| 8   | Apr 10 |                                       |
+| 9   | Apr 11 | Back to Bishkek. Flat. Civilization.  |
+| 10  | Apr 12 | Out at 8am                            |
+
+---
+
 ## Route planning
 
 **April 3-12, 2026** | 10 days | Rental car + tent
@@ -26,11 +43,19 @@ Full details in [roadmap.md](./roadmap/index.md)
 
 ---
 
+## Bucket List — TBD
+
+- [ ] Horse riding — not the tourist pony circle, actual riding
+- [ ] Yurt sauna — supposedly exists, needs confirming
+- [ ] Sleep in a yurt — the real experience, not a glamping setup
+
+---
+
 ## Gear - TBD
 
-- To buy list
-- Gear list
-- Shared gear list
+- [ ] To buy list
+- [ ] Gear list
+- [ ] Shared gear list
 
 ---
 
