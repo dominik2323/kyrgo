@@ -2,6 +2,26 @@
 
 South shore of Issyk-Kul has the red mountains and scenic canyons. Son-Kul itself is the high-altitude nomad experience. Route between them crosses the Kalmak-Ashuu Pass (3,440m) — one of the most beautiful drives in the country.
 
+**Kochkor Lenin Statue**
+Silver-painted Lenin in front of regional government
+[Google Maps](https://www.google.com/maps?q=42.21349765348418,75.75444474214214)
+
+**Burana Tower**
+11th century minaret, 25m tall (was 45m before earthquakes). Balbals (ancient gravestones) collection nearby. Small museum. Climb to top for mountain views. 150 som entry.
+[Google Maps](https://www.google.com/maps?q=42.7463,75.2502)
+[Central Asia Guide](https://central-asia.guide/kyrgyzstan/destinations-kg/bishkek/burana-tower/)
+[Balbals](https://central-asia.guide/central-asia-guide/balbal-stone-statue/)
+
+**Kochkor**
+Small town
+[Google Maps](https://www.google.com/maps?q=42.2131,75.7575)
+[Google Maps - Petroglyphs](https://www.google.com/maps?q=42.27017903677845,75.70535295414071)
+
+**Konorchek Canyon**
+Red sandstone formations like mini Grand Canyon. Free entry.
+[Google Maps](https://www.google.com/maps?q=42.59930317431792,75.81370656218193)
+[Megan Starr](https://www.meganstarr.com/konorchek-canyon-red-bridge-kyrgyzstan/)
+
 ## Hikes
 
 | Id  | Name         | Type         | Dist  | Time   | GPX Tracks                                                                    | Note |
