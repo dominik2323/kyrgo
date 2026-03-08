@@ -1,0 +1,53 @@
+# Part 01 / Bishkek → Son-Kul
+
+## Hikes
+
+| Id  | Name                                     | Type         | Dist  | Time     | GPX Tracks                                                                                             | Note                                                                                            |
+| --- | ---------------------------------------- | ------------ | ----- | -------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 01  | Ala Archa — Ak-Sai Waterfall             | Out and back | 8 km  | 4-4.5h   | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/ak-sai-waterfall)                          | [Other trails in Ala Archa](https://www.alltrails.com/parks/kyrgyzstan/ala-archa-national-park) |
+| 02  | Ala-Archa - Ak-Sai Racek Hut and Glacier | Out and back | 13 km | full day | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/ala-archa-to-ak-sai-racek-hut-and-glacier) | There is a [Ratsek Hut](https://ak-sai.com/camps/mountain-huts/ratsek-hut/) on top              |
+| 03  | Konorchek Canyon                         | Out and back | 13 km | 2-4h     | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/konorchek-canyons)                         |                                                                                                 |
+| 04  | Kol-Ukok Lake                            | Out and back | 34 km | 2 days   | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/naryn/kol-ukok-lake)                            |                                                                                                 |
+| 05  | Lake Ala-Köl                             | Out and back | 40 km | 2 days   | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/ala-kol-lake)                          |                                                                                                 |
+
+---
+
+## Places
+
+**Min-Kush**
+Soviet uranium ghost town. Population dropped from 20k to 2k. Decaying apartment blocks, massive Lenin statue, cultural center with preserved murals, abandoned school and hospital. Haunting. Some radiation in mining areas — don't lick the walls.
+[Google Maps](https://www.google.com/maps?q=41.6833,74.4667)
+[Wiki](https://en.wikipedia.org/wiki/Ming-Kush)
+[Atlas Obscura](https://www.atlasobscura.com/places/min-kush)
+[Report from visit](https://www.lostwithpurpose.com/min-kush-kyrgyzstan/)
+[Soviet propaganda mosaics](https://timesca.com/min-kush-the-kyrgyz-time-capsule/)
+
+**Kochkor Lenin Statue**
+Silver-painted Lenin in front of regional government
+[Google Maps](https://www.google.com/maps?q=42.21349765348418,75.75444474214214)
+
+**Burana Tower**
+11th century minaret, 25m tall (was 45m before earthquakes). Balbals (ancient gravestones) collection nearby. Small museum. Climb to top for mountain views. 150 som entry.
+[Google Maps](https://www.google.com/maps?q=42.7463,75.2502)
+[Central Asia Guide](https://central-asia.guide/kyrgyzstan/destinations-kg/bishkek/burana-tower/)
+[Balbals](https://central-asia.guide/central-asia-guide/balbal-stone-statue/)
+
+**Konorchek Canyon**
+Red sandstone formations like mini Grand Canyon. Free entry.
+[Google Maps](https://www.google.com/maps?q=42.59930317431792,75.81370656218193)
+[Megan Starr](https://www.meganstarr.com/konorchek-canyon-red-bridge-kyrgyzstan/)
+
+**Kochkor**
+Small town
+[Google Maps](https://www.google.com/maps?q=42.2131,75.7575)
+[Google Maps - Petroglyphs](https://www.google.com/maps?q=42.27017903677845,75.70535295414071)
+
+**Шаркыратма — Waterfall Song-Kol**
+Waterfall near the shores of Song-Kol. Less visited than main lake viewpoints.
+[Google Maps](https://www.google.com/maps?q=41.7360550756298,75.44883525080034)
+[Place overview](https://mindtrip.ai/attraction/kyrgyzstan/sharkyratma-waterfall-song-kol/at-OCiWJQHI)
+
+Moldo-Ashuu Pass 3,346m pass on the road to Song-Kol. Dramatic alpine scenery, possible snow in April.
+[Google Maps](https://www.google.com/maps?q=41.66900872740089,75.03676658526209)
+[Komoot](https://www.komoot.com/highlight/2901697)
+[Info](https://www.asiaforadventure.net/en/kyrgyzstan-through-the-eyes-of-our-guests/the-moldo-ashuu-pass/)
