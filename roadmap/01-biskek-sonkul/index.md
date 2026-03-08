@@ -8,7 +8,6 @@
 | 02  | Ala-Archa - Ak-Sai Racek Hut and Glacier | Out and back | 13 km | full day | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/ala-archa-to-ak-sai-racek-hut-and-glacier) | There is a [Ratsek Hut](https://ak-sai.com/camps/mountain-huts/ratsek-hut/) on top              |
 | 03  | Konorchek Canyon                         | Out and back | 13 km | 2-4h     | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/chuy/konorchek-canyons)                         |                                                                                                 |
 | 04  | Kol-Ukok Lake                            | Out and back | 34 km | 2 days   | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/naryn/kol-ukok-lake)                            |                                                                                                 |
-| 05  | Lake Ala-Köl                             | Out and back | 40 km | 2 days   | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/ala-kol-lake)                          |                                                                                                 |
 
 ---
 

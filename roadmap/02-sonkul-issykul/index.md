@@ -4,9 +4,9 @@ South shore of Issyk-Kul has the red mountains and scenic canyons. Son-Kul itsel
 
 ## Hikes
 
-| Id  | Name | Type         | Dist | Time | GPX Tracks | Note |
-| --- | ---- | ------------ | ---- | ---- | ---------- | ---- |
-| 01  |      | Out and back | km   | h    | []()       |      |
+| Id  | Name         | Type         | Dist  | Time   | GPX Tracks                                                                    | Note |
+| --- | ------------ | ------------ | ----- | ------ | ----------------------------------------------------------------------------- | ---- |
+| 01  | Lake Ala-Köl | Out and back | 40 km | 2 days | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/ala-kol-lake) |      |
 
 ---
 

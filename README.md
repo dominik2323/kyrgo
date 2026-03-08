@@ -14,30 +14,26 @@
 
 ## Rough Timeline
 
-| Day | Date   | Vague Plan                            |
-| --- | ------ | ------------------------------------- |
-| 1   | Apr 3  | Land 3am. Grab car. Rest. Maybe move? |
-| 2   | Apr 4  |                                       |
-| 3   | Apr 5  |                                       |
-| 4   | Apr 6  |                                       |
-| 5   | Apr 7  |                                       |
-| 6   | Apr 8  |                                       |
-| 7   | Apr 9  |                                       |
-| 8   | Apr 10 |                                       |
-| 9   | Apr 11 | Back to Bishkek. Flat. Civilization.  |
-| 10  | Apr 12 | Out at 8am                            |
-
----
-
-## Route planning
-
 **April 3-12, 2026** | 10 days | Rental car + tent
 
-### Route Overview
+| Day | Date   | Rough Plan                                                                          |
+| --- | ------ | ----------------------------------------------------------------------------------- |
+| 1   | Apr 3  | Pickup car and stay for the day in Bishkek and for the night move towards Ala Archa |
+| 2   | Apr 4  | Hike in Ala Archa                                                                   |
+| 3   | Apr 5  |                                                                                     |
+| 4   | Apr 6  |                                                                                     |
+| 5   | Apr 7  |                                                                                     |
+| 6   | Apr 8  |                                                                                     |
+| 7   | Apr 9  |                                                                                     |
+| 8   | Apr 10 |                                                                                     |
+| 9   | Apr 11 | Bishkek                                                                             |
+| 10  | Apr 12 | Out at 8am                                                                          |
 
-1. **Bishkek → Son-Kul**
-2. **Son-Kul → Issyk-Kul**
-3. **Issyk-Kul → Bishkek**
+Route is separated into three parts.
+
+1. Bishkek → Son-Kul
+2. Son-Kul → Issyk-Kul
+3. Issyk-Kul → Bishkek
 
 Full details in [roadmap.md](./roadmap/index.md)
 
@@ -45,9 +41,9 @@ Full details in [roadmap.md](./roadmap/index.md)
 
 ## Bucket List — TBD
 
-- [ ] Horse riding — not the tourist pony circle, actual riding
-- [ ] Yurt sauna — supposedly exists, needs confirming
-- [ ] Sleep in a yurt — the real experience, not a glamping setup
+- [ ] Horse riding
+- [ ] Yurt sauna
+- [ ] Sleep in a yurt
 
 ---
 
