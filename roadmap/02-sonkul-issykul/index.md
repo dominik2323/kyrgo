@@ -26,11 +26,6 @@
 
 ## Places
 
-### Kochkor Lenin Statue
-
-Silver-painted Lenin in front of regional government building.
-[Google Maps](https://www.google.com/maps?q=42.21349765348418,75.75444474214214)
-
 ### Burana Tower
 
 11th century minaret, 25m tall (was 45m before earthquakes). Balbals (ancient gravestones) collection nearby. Small museum. Climb to top for mountain views. 150 som entry.
@@ -41,36 +36,54 @@ Silver-painted Lenin in front of regional government building.
 ### Kochkor
 
 Small town with nearby petroglyphs.
-[Google Maps](https://www.google.com/maps?q=42.2131,75.7575)
 [Google Maps - Petroglyphs](https://www.google.com/maps?q=42.27017903677845,75.70535295414071)
+
+#### Kochkor Lenin Statue
+
+Silver-painted Lenin in front of regional government building.
+[Google Maps](https://www.google.com/maps?q=42.21349765348418,75.75444474214214)
 
 ### Kadji-Sai Uranium Mine
 
 Soviet uranium mine and processing plant (1949-1967). Derelict infrastructure looms over the beach village. Environmental disaster in slow motion — tailings wash into Issyk-Kul when it rains. Don't swim nearby. Remediation starting 2025.
-[Google Maps](https://www.google.com/maps?q=42.13770229498746,77.17758731896603)
+Wasn't able to find it on Google maps. Should be somewhere above Kadji-Sai.
 [Eurasianet](https://eurasianet.org/kyrgyzstan-abandoned-uranium-mine-looms-over-tranquil-beach-haven)
-
-### Gagarin Bust and Barskoon Waterfall
-
-Concrete bust of Yuri Gagarin at the waterfall trailhead. He vacationed on Issyk-Kul's south shore after his spaceflight. Soviet lorry mounted on plinth nearby.
-[Google Maps](https://www.google.com/maps?q=42.00900776365711,77.61394906351165)
-[Wikipedia](https://en.wikipedia.org/wiki/Barskoon_Waterfall)
 
 ### Barskoon
 
 Village with access to waterfalls and Gagarin monument. Gateway to Arabel Pass.
-[Google Maps](https://www.google.com/maps?q=42.10,77.55)
+Concrete bust of Yuri Gagarin at the waterfall trailhead. He vacationed on Issyk-Kul's south shore after his spaceflight. Soviet lorry mounted on plinth nearby.
+[Google Maps](https://www.google.com/maps?q=42.00900776365711,77.61394906351165)
+[Wikipedia](https://en.wikipedia.org/wiki/Barskoon_Waterfall)
 
-### Jeti-Oguz Sanatorium
+### Geroyam Pobeditelyam Vov, Pamyatnik
+
+Significant historical site dedicated to the heroes of the Great Patriotic War (World War II).
+[Google Maps](https://www.google.com/maps?q=42.31226728552235,76.29765022376952)
+
+### Abandoned Young Pioneer Camp
+
+Massive Soviet summer camp left to rot since 1991. Near Bel-Tam on south shore. Boarded windows, crumbling walkways, dead birds in classrooms. Most doors locked but windows are... flexible. Labelled "Pionerskiy Lager' Zor'ka" on maps.
+[Google Maps](https://www.google.com/maps?q=42.170618632469356,77.03518398757319)
+[Travel Tramp](https://www.travel-tramp.com/exploring-an-abandoned-soviet-young-pioneer-summer-camp-in-kyrgyzstan/)
+
+### Jeti-Oguz Valley
+
+Iconic red rock fins rising from green hills. "Broken Heart" rock across the road. Legend involves a khan, a woman, and seven bulls.
+[Zig Zag on Earth](https://www.zigzagonearth.com/jeti-oguz-kyrgyzstan/)
+
+#### Resort
 
 Soviet-era resort with healing geothermal springs at 2200m. Probably closed, I dont know if this is an urbex or not.
 [Google Maps — Resort](https://www.google.com/maps?q=42.33029946007492,78.23791056949612)
-[Google Maps – Memorial](https://www.google.com/maps?q=42.428965589531245,78.21557250082154)
-[Central Asia Guide](https://central-asia.guide/kyrgyzstan/destinations-kg/issyk-kul/jeti-oguz/)
 
-Iconic red rock fins rising from green hills. "Broken Heart" rock across the road. Legend involves a khan, a woman, and seven bulls.
+#### Memorial in the town
+
+[Google Maps – Memorial](https://www.google.com/maps?q=42.428965589531245,78.21557250082154)
+
+#### Broken Hearth Rock
+
 [Google Maps](https://www.google.com/maps?q=42.33945829647666,78.22725149157965)
-[Zig Zag on Earth](https://www.zigzagonearth.com/jeti-oguz-kyrgyzstan/)
 
 ### Skazka Canyon
 

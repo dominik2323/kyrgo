@@ -148,11 +148,18 @@ html, body {
     color: white;
 }
 
+/* Part colors (trip segments) */
+.popup-category.part-1 { background: #27ae60; }
+.popup-category.part-2 { background: #3498db; }
+.popup-category.part-3 { background: #9b59b6; }
+.popup-category.part-future { background: #95a5a6; }
+
+/* Category colors */
 .popup-category.urbex { background: #e74c3c; }
-.popup-category.monument { background: #9b59b6; }
-.popup-category.hike { background: #27ae60; }
+.popup-category.monument { background: #8e44ad; }
+.popup-category.hike { background: #16a085; }
 .popup-category.food { background: #f39c12; }
-.popup-category.worth_a_stop { background: #3498db; }
+.popup-category.worth_a_stop { background: #7f8c8d; }
 .popup-category.future { background: #95a5a6; }
 
 /* Route type badges for GPX tracks */

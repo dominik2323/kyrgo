@@ -1,14 +1,13 @@
 {
   "gpxTracks": [
     {
-      "id": "bishkek-to-sonkol",
-      "name": "Bishkek to Son-Kol",
-      "file": "roadmap/01-biskek-sonkul/assets/00-bishkek-to-sonkol.gpx",
-      "distance": "~280 km",
-      "time": "6-8h",
-      "type": "One way",
-      "routeType": "car",
-      "color": "#34495e"
+      "id": "car-route",
+      "name": "Car Route",
+      "file": "roadmap/gpx/00-car-route.gpx",
+      "distance": "~800 km",
+      "time": "multi-day",
+      "type": "Loop",
+      "routeType": "car"
     },
     {
       "id": "ak-sai-waterfall",
@@ -18,7 +17,7 @@
       "time": "4-4.5h",
       "type": "Out and back",
       "routeType": "hike",
-      "color": "#e74c3c"
+      "part": 1
     },
     {
       "id": "racek-hut",
@@ -28,27 +27,27 @@
       "time": "Full day",
       "type": "Out and back",
       "routeType": "hike",
-      "color": "#e67e22"
+      "part": 1
     },
     {
       "id": "konorchek-canyons",
       "name": "Konorchek Canyons",
-      "file": "roadmap/01-biskek-sonkul/assets/03-konorchek-canyons-map.gpx",
+      "file": "roadmap/02-sonkul-issykul/assets/07-konorchek-canyons-map.gpx",
       "distance": "13 km",
       "time": "2-4h",
       "type": "Out and back",
       "routeType": "hike",
-      "color": "#f1c40f"
+      "part": 2
     },
     {
       "id": "kol-ukok",
       "name": "Kol-Ukok Lake",
-      "file": "roadmap/01-biskek-sonkul/assets/04-kol-ukok-lake-map.gpx",
+      "file": "roadmap/02-sonkul-issykul/assets/06-kol-ukok-lake-map.gpx",
       "distance": "34 km",
       "time": "2 days",
       "type": "Out and back",
       "routeType": "hike",
-      "color": "#2ecc71"
+      "part": 2
     },
     {
       "id": "ala-kol",
@@ -58,55 +57,22 @@
       "time": "2 days",
       "type": "Out and back",
       "routeType": "hike",
-      "color": "#3498db"
+      "part": 3
     }
   ],
   "locations": [
     {
       "name": "Min-Kush",
       "category": "urbex",
+      "part": 1,
       "coordinates": [41.6833, 74.4667],
       "description": "Soviet uranium ghost town. Population dropped from 20k to 2k. Decaying apartment blocks, massive Lenin statue.",
       "link": "https://www.google.com/maps?q=41.6833,74.4667"
     },
     {
-      "name": "Kochkor Lenin Statue",
-      "category": "monument",
-      "coordinates": [42.2135, 75.7544],
-      "description": "Silver-painted Lenin in front of regional government",
-      "link": "https://www.google.com/maps?q=42.21349765348418,75.75444474214214"
-    },
-    {
-      "name": "Burana Tower",
-      "category": "monument",
-      "coordinates": [42.7463, 75.2502],
-      "description": "11th century minaret, 25m tall. Balbals collection nearby. Small museum. 150 som entry.",
-      "link": "https://www.google.com/maps?q=42.7463,75.2502"
-    },
-    {
-      "name": "Konorchek Canyon",
-      "category": "hike",
-      "coordinates": [42.5993, 75.8137],
-      "description": "Red sandstone formations like mini Grand Canyon. Free entry.",
-      "link": "https://www.google.com/maps?q=42.59930317431792,75.81370656218193"
-    },
-    {
-      "name": "Kochkor",
-      "category": "worth_a_stop",
-      "coordinates": [42.2131, 75.7575],
-      "description": "Small town, gateway to Son-Kul",
-      "link": "https://www.google.com/maps?q=42.2131,75.7575"
-    },
-    {
-      "name": "Kochkor Petroglyphs",
-      "category": "worth_a_stop",
-      "coordinates": [42.2702, 75.7054],
-      "description": "Ancient rock carvings near Kochkor",
-      "link": "https://www.google.com/maps?q=42.27017903677845,75.70535295414071"
-    },
-    {
       "name": "Sharkyratma Waterfall",
       "category": "worth_a_stop",
+      "part": 1,
       "coordinates": [41.7361, 75.4488],
       "description": "Waterfall near the shores of Song-Kol. Less visited than main lake viewpoints.",
       "link": "https://www.google.com/maps?q=41.7360550756298,75.44883525080034"
@@ -114,125 +80,103 @@
     {
       "name": "Moldo-Ashuu Pass",
       "category": "worth_a_stop",
-      "coordinates": [41.6690, 75.0368],
+      "part": 1,
+      "coordinates": [41.669, 75.0368],
       "description": "3,346m pass on the road to Song-Kol. Dramatic alpine scenery, possible snow in April.",
       "link": "https://www.google.com/maps?q=41.66900872740089,75.03676658526209"
     },
     {
-      "name": "Kadji-Sai Uranium Mine",
-      "category": "urbex",
-      "coordinates": [42.17, 77.23],
-      "description": "Soviet uranium mine and processing plant (1949-1967). Derelict infrastructure looms over the beach village.",
-      "link": "https://www.google.com/maps?q=42.17,77.23"
-    },
-    {
-      "name": "Gagarin Bust",
+      "name": "Burana Tower",
       "category": "monument",
-      "coordinates": [42.002, 77.577],
-      "description": "Concrete bust of Yuri Gagarin at the waterfall trailhead. Soviet lorry mounted on plinth nearby.",
-      "link": "https://www.google.com/maps?q=42.002,77.577"
+      "part": 2,
+      "coordinates": [42.7463, 75.2502],
+      "description": "11th century minaret, 25m tall. Balbals collection nearby. Small museum. 150 som entry.",
+      "link": "https://www.google.com/maps?q=42.7463,75.2502"
     },
     {
-      "name": "Jeti-Oguz Sanatorium",
+      "name": "Kochkor Lenin Statue",
       "category": "monument",
-      "coordinates": [42.3167, 77.7833],
-      "description": "Soviet-era resort with healing geothermal springs at 2200m. Still operating. Brutalist vibes.",
-      "link": "https://www.google.com/maps?q=42.3167,77.7833"
+      "part": 2,
+      "coordinates": [42.2135, 75.7544],
+      "description": "Silver-painted Lenin in front of regional government",
+      "link": "https://www.google.com/maps?q=42.21349765348418,75.75444474214214"
     },
     {
-      "name": "Bokonbayevo Homestays",
-      "category": "food",
-      "coordinates": [42.1172, 76.9931],
-      "description": "CBT-organized homestays in the village near Skazka Canyon. Traditional meals with families.",
-      "link": "https://www.google.com/maps?q=42.1172,76.9931"
-    },
-    {
-      "name": "Yurt Camps at Son-Kul",
-      "category": "food",
-      "coordinates": [41.85, 75.15],
-      "description": "Nomad families cook traditional food. Kymyz, beshbarmak, fresh bread. The real deal.",
-      "link": "https://www.google.com/maps?q=41.85,75.15"
-    },
-    {
-      "name": "Skazka Canyon",
-      "category": "hike",
-      "coordinates": [42.1607, 77.3309],
-      "description": "Martian landscape on Issyk-Kul's south shore. Red sandstone formations. Best at sunset. 50 som entry.",
-      "link": "https://www.google.com/maps?q=42.1607,77.3309"
-    },
-    {
-      "name": "Jeti-Oguz (Seven Bulls)",
-      "category": "hike",
-      "coordinates": [42.3167, 77.7833],
-      "description": "Iconic red rock fins rising from green hills. 'Broken Heart' rock across the road.",
-      "link": "https://www.google.com/maps?q=42.3167,77.7833"
-    },
-    {
-      "name": "Ring of Fire",
+      "name": "Kochkor Petroglyphs",
       "category": "worth_a_stop",
-      "coordinates": [42.1133, 76.9783],
-      "description": "Red rock formations near Bokonbayevo. Less crowded alternative to Skazka.",
-      "link": "https://www.google.com/maps?q=42.1133,76.9783"
-    },
-    {
-      "name": "Teskey-Torpok",
-      "category": "worth_a_stop",
-      "coordinates": [42.1333, 77.2000],
-      "description": "Red rock formations on south shore. Another 'mini canyon' worth a stop.",
-      "link": "https://www.google.com/maps?q=42.1333,77.2000"
-    },
-    {
-      "name": "Tastar-Ata",
-      "category": "worth_a_stop",
-      "coordinates": [42.4167, 77.1667],
-      "description": "Sacred pilgrimage site and hiking area. Petroglyphs and spiritual significance.",
-      "link": "https://www.google.com/maps?q=42.4167,77.1667"
-    },
-    {
-      "name": "Arabel Pass Viewpoint",
-      "category": "worth_a_stop",
-      "coordinates": [41.9167, 77.4167],
-      "description": "High-altitude viewpoint at ~3,900m on the road to Kumtor mine. Dramatic mountain views.",
-      "link": "https://www.google.com/maps?q=41.9167,77.4167"
+      "part": 2,
+      "coordinates": [42.2702, 75.7054],
+      "description": "Ancient rock carvings near Kochkor",
+      "link": "https://www.google.com/maps?q=42.27017903677845,75.70535295414071"
     },
     {
       "name": "Barskoon",
       "category": "worth_a_stop",
-      "coordinates": [42.10, 77.55],
-      "description": "Village with access to waterfalls and Gagarin monument. Gateway to Arabel Pass.",
-      "link": "https://www.google.com/maps?q=42.10,77.55"
+      "part": 2,
+      "coordinates": [42.009, 77.614],
+      "description": "Village with waterfalls and Gagarin monument. Soviet lorry on plinth nearby.",
+      "link": "https://www.google.com/maps?q=42.00900776365711,77.61394906351165"
     },
     {
-      "name": "Kalmak-Ashuu Pass",
-      "category": "worth_a_stop",
-      "coordinates": [41.95, 75.85],
-      "description": "3,440m pass between Son-Kul and Issyk-Kul. Summer pastures, yurts. One of Kyrgyzstan's best drives.",
-      "link": "https://www.google.com/maps?q=41.95,75.85"
+      "name": "Jeti-Oguz Valley",
+      "category": "hike",
+      "part": 2,
+      "coordinates": [42.3393, 78.2273],
+      "description": "Iconic red rock fins rising from green hills. 'Broken Heart' rock across the road.",
+      "link": "https://www.google.com/maps?q=42.33945829647666,78.22725149157965"
     },
     {
-      "name": "Orto-Tokoy Reservoir",
+      "name": "Jeti-Oguz Resort",
+      "category": "monument",
+      "part": 2,
+      "coordinates": [42.3303, 78.2379],
+      "description": "Soviet-era resort with healing geothermal springs at 2200m.",
+      "link": "https://www.google.com/maps?q=42.33029946007492,78.23791056949612"
+    },
+    {
+      "name": "Jeti-Oguz Memorial",
+      "category": "monument",
+      "part": 2,
+      "coordinates": [42.429, 78.2156],
+      "description": "Memorial in Jeti-Oguz town.",
+      "link": "https://www.google.com/maps?q=42.428965589531245,78.21557250082154"
+    },
+    {
+      "name": "Skazka Canyon",
+      "category": "hike",
+      "part": 2,
+      "coordinates": [42.1568, 77.3541],
+      "description": "Martian landscape on Issyk-Kul's south shore. Red sandstone formations. Best at sunset. 50 som entry.",
+      "link": "https://www.google.com/maps?q=42.15679833850856,77.35408080719459"
+    },
+    {
+      "name": "Tastar-Ata",
       "category": "worth_a_stop",
-      "coordinates": [42.15, 75.75],
-      "description": "Small turquoise lake shortly after leaving Issyk-Kul heading to Son-Kul. Quick photo stop.",
-      "link": "https://www.google.com/maps?q=42.15,75.75"
+      "part": 2,
+      "coordinates": [42.0482, 77.1799],
+      "description": "Sacred pilgrimage site and hiking area. Petroglyphs and spiritual significance.",
+      "link": "https://www.google.com/maps?q=42.04818467397712,77.17986113011814"
+    },
+    {
+      "name": "Arabel Pass Viewpoint",
+      "category": "worth_a_stop",
+      "part": 2,
+      "coordinates": [41.8057, 77.6719],
+      "description": "High-altitude viewpoint at ~3,900m on the road to Kumtor mine. Dramatic mountain views.",
+      "link": "https://www.google.com/maps?q=41.80574050013489,77.67186132993066"
     },
     {
       "name": "Abandoned Young Pioneer Camp",
       "category": "urbex",
-      "coordinates": [42.15, 77.10],
+      "part": 3,
+      "coordinates": [42.15, 77.1],
       "description": "Massive Soviet summer camp left to rot since 1991. Near Bel-Tam on south shore.",
       "link": "https://www.google.com/maps?q=42.15,77.10"
     },
     {
-      "name": "Barskoon Pioneer Camp",
-      "category": "urbex",
-      "coordinates": [42.10, 77.55],
-      "description": "Another abandoned camp on south shore. Still has a Lenin monument standing.",
-      "link": "https://www.google.com/maps?q=42.10,77.55"
-    },
-    {
       "name": "Aurora Sanatorium",
       "category": "monument",
+      "part": 3,
       "coordinates": [42.67, 77.33],
       "description": "Ship-shaped brutalist sanatorium built 1979 for Communist Party elite. Still operating.",
       "link": "https://www.google.com/maps?q=42.67,77.33"
@@ -240,20 +184,23 @@
     {
       "name": "Aalam Ordo",
       "category": "monument",
-      "coordinates": [42.6550, 77.0550],
+      "part": 3,
+      "coordinates": [42.655, 77.055],
       "description": "Cultural center near Cholpon-Ata. Soviet-meets-Kyrgyz architecture, sculptures.",
       "link": "https://www.google.com/maps?q=42.6550,77.0550"
     },
     {
       "name": "Issyk-Ata Sanatorium",
       "category": "monument",
-      "coordinates": [42.60, 75.00],
+      "part": 3,
+      "coordinates": [42.6, 75.0],
       "description": "Near Bishkek. One of Central Asia's oldest. WW2 soldier treatment center.",
       "link": "https://www.google.com/maps?q=42.60,75.00"
     },
     {
       "name": "Cholpon-Ata Petroglyphs",
       "category": "monument",
+      "part": 3,
       "coordinates": [42.65, 77.08],
       "description": "42 hectares of Bronze Age rock carvings. 5,000+ stones. Hunting scenes, sun worship.",
       "link": "https://www.google.com/maps?q=42.65,77.08"
@@ -261,6 +208,7 @@
     {
       "name": "Dungan Mosque",
       "category": "monument",
+      "part": 3,
       "coordinates": [42.4907, 78.3936],
       "description": "Chinese Buddhist temple that's actually a mosque. Built 1907-1910 entirely of wood with zero nails.",
       "link": "https://www.google.com/maps?q=42.4907,78.3936"
@@ -268,6 +216,7 @@
     {
       "name": "Ashlan-fu Alley",
       "category": "food",
+      "part": 3,
       "coordinates": [42.4907, 78.3936],
       "description": "Bogu Bazaar. Multiple stalls serving Karakol's signature dish. 600 bowls/day at 30 som.",
       "link": "https://www.google.com/maps?q=42.4907,78.3936"
@@ -275,6 +224,7 @@
     {
       "name": "Altyn-Arashan Hot Springs",
       "category": "hike",
+      "part": 3,
       "coordinates": [42.43, 78.55],
       "description": "Natural hot springs at end of 15km trek. Soviet-era huts, alpine meadows.",
       "link": "https://www.google.com/maps?q=42.43,78.55"
@@ -282,6 +232,7 @@
     {
       "name": "Karakol Town",
       "category": "worth_a_stop",
+      "part": 3,
       "coordinates": [42.4907, 78.3936],
       "description": "Melting pot - Kyrgyz, Dungan, Tatar, Uyghur, Russian. Best food scene in the country.",
       "link": "https://www.google.com/maps?q=42.4907,78.3936"
@@ -289,6 +240,7 @@
     {
       "name": "Jyrgalan Valley",
       "category": "worth_a_stop",
+      "part": 3,
       "coordinates": [42.507, 78.978],
       "description": "60km from Karakol. Former coal mining village turned adventure tourism hub.",
       "link": "https://www.google.com/maps?q=42.507,78.978"
@@ -296,6 +248,7 @@
     {
       "name": "State History Museum",
       "category": "worth_a_stop",
+      "part": 3,
       "coordinates": [42.8747, 74.5978],
       "description": "Massive Soviet-era museum on Ala-Too Square. Kyrgyz history from nomads to independence.",
       "link": "https://www.google.com/maps?q=42.8747,74.5978"
@@ -303,6 +256,7 @@
     {
       "name": "Great Emptiness Museum",
       "category": "worth_a_stop",
+      "part": 3,
       "coordinates": [42.8747, 74.6122],
       "description": "Underground Soviet bunker turned art space. Nuclear shelter vibes meets contemporary installations.",
       "link": "https://www.google.com/maps?q=42.8747,74.6122"
@@ -310,6 +264,7 @@
     {
       "name": "Osh Bazaar",
       "category": "food",
+      "part": 3,
       "coordinates": [42.8747, 74.5894],
       "description": "Massive chaotic market. Food, clothes, everything. The real Bishkek experience.",
       "link": "https://www.google.com/maps?q=42.8747,74.5894"
@@ -317,16 +272,34 @@
     {
       "name": "Panfilov Park",
       "category": "worth_a_stop",
-      "coordinates": [42.8747, 74.6050],
+      "part": 3,
+      "coordinates": [42.8747, 74.605],
       "description": "Central park with Soviet monuments. Good for a walk.",
       "link": "https://www.google.com/maps?q=42.8747,74.6050"
     },
     {
       "name": "Kyrgyz State Circus",
       "category": "worth_a_stop",
-      "coordinates": [42.8700, 74.5800],
+      "part": 3,
+      "coordinates": [42.87, 74.58],
       "description": "Soviet-era circus building. Shows still run.",
       "link": "https://www.google.com/maps?q=42.8700,74.5800"
+    },
+    {
+      "name": "Victory Square",
+      "category": "monument",
+      "part": 3,
+      "coordinates": [42.865, 74.605],
+      "description": "Soviet war memorial and eternal flame.",
+      "link": "https://www.google.com/maps?q=42.8650,74.6050"
+    },
+    {
+      "name": "Kyrgyz National Museum of Fine Arts",
+      "category": "worth_a_stop",
+      "part": 3,
+      "coordinates": [42.8747, 74.6],
+      "description": "Gapar Aitiev museum. Soviet and Kyrgyz art collection.",
+      "link": "https://www.google.com/maps?q=42.8747,74.6000"
     },
     {
       "name": "Sulaiman Mountain Museum",
@@ -352,14 +325,14 @@
     {
       "name": "Tash Rabat",
       "category": "future",
-      "coordinates": [40.8500, 75.2833],
+      "coordinates": [40.85, 75.2833],
       "description": "15th century stone caravanserai at 3,200m. Remarkably intact Silk Road waystation.",
       "link": "https://www.google.com/maps?q=40.8500,75.2833"
     },
     {
       "name": "Kol-Suu",
       "category": "future",
-      "coordinates": [40.9817, 76.0100],
+      "coordinates": [40.9817, 76.01],
       "description": "Stunning turquoise lake near Chinese border. Remote, requires permit and 4x4.",
       "link": "https://www.google.com/maps?q=40.9817,76.0100"
     },
@@ -373,14 +346,14 @@
     {
       "name": "Khrebet Sarydzhaz",
       "category": "future",
-      "coordinates": [42.2000, 79.5000],
+      "coordinates": [42.2, 79.5],
       "description": "Mountain range on the Chinese border. Includes Khan Tengri (6,995m).",
       "link": "https://www.google.com/maps?q=42.2000,79.5000"
     },
     {
       "name": "Yrdyk",
       "category": "future",
-      "coordinates": [42.4000, 79.0000],
+      "coordinates": [42.4, 79.0],
       "description": "Remote area east of Karakol. Less visited, rugged landscapes.",
       "link": "https://www.google.com/maps?q=42.4000,79.0000"
     }

@@ -13,6 +13,13 @@ const topoLayer = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'
     maxZoom: 17
 });
 
+// Contour/hillshade overlay
+const hillshadeLayer = L.tileLayer('https://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png', {
+    attribution: 'Hillshading: SRTM',
+    maxZoom: 17,
+    opacity: 0.5
+});
+
 // Layer control
 const baseMaps = {
     "Street Map": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -21,16 +28,18 @@ const baseMaps = {
     "Terrain": topoLayer
 };
 
-L.control.layers(baseMaps).addTo(map);
+const overlayMaps = {
+    "Contours / Hillshade": hillshadeLayer
+};
 
-// Category colors for markers
-const categoryColors = {
-    urbex: '#e74c3c',
-    monument: '#9b59b6',
-    hike: '#27ae60',
-    food: '#f39c12',
-    worth_a_stop: '#3498db',
-    future: '#95a5a6'
+L.control.layers(baseMaps, overlayMaps, { position: 'topleft' }).addTo(map);
+
+// Part colors for markers (by trip segment)
+const partColors = {
+    1: '#27ae60',  // Part 1: Green - Bishkek → Son-Kul
+    2: '#3498db',  // Part 2: Blue - Son-Kul → Issyk-Kul
+    3: '#9b59b6',  // Part 3: Purple - Issyk-Kul → Bishkek
+    future: '#95a5a6'  // Future trips: Gray
 };
 
 // Create custom marker icons
@@ -59,16 +68,17 @@ let currentElevationControl = null;
 function loadGPXTracks(tracks) {
     tracks.forEach(track => {
         const isCarRoute = track.routeType === 'car';
+        const trackColor = isCarRoute ? '#34495e' : partColors[track.part] || partColors.future;
 
         // Different styles for car vs hike routes
         const polylineOptions = isCarRoute ? {
-            color: track.color,
+            color: trackColor,
             weight: 4,
             opacity: 0.9,
             dashArray: '10, 10',
             lineCap: 'butt'
         } : {
-            color: track.color,
+            color: trackColor,
             weight: 4,
             opacity: 0.8,
             lineCap: 'round'
@@ -79,7 +89,8 @@ function loadGPXTracks(tracks) {
             marker_options: {
                 startIconUrl: null,
                 endIconUrl: null,
-                shadowUrl: null
+                shadowUrl: null,
+                wptIconUrls: { '': null }
             },
             polyline_options: polylineOptions
         });
@@ -140,6 +151,7 @@ function showElevationProfile(track, gpxLayer) {
     closeBtn.onclick = () => {
         container.classList.remove('visible');
         if (currentElevationControl) {
+            currentElevationControl.clear();
             map.removeControl(currentElevationControl);
             currentElevationControl = null;
         }
@@ -148,6 +160,7 @@ function showElevationProfile(track, gpxLayer) {
 
     // Create elevation control
     if (currentElevationControl) {
+        currentElevationControl.clear();
         map.removeControl(currentElevationControl);
     }
 
@@ -178,15 +191,17 @@ function showElevationProfile(track, gpxLayer) {
 // Load location markers
 function loadLocations(locations) {
     locations.forEach(loc => {
-        const color = categoryColors[loc.category] || '#3498db';
+        const color = loc.part ? partColors[loc.part] : partColors.future;
         const marker = L.marker(loc.coordinates, {
             icon: createMarkerIcon(color)
         });
 
         const categoryLabel = loc.category.replace('_', ' ');
+        const partLabel = loc.part ? `Part ${loc.part}` : 'Future';
 
         marker.bindPopup(`
             <div class="popup-title">${loc.name}</div>
+            <span class="popup-category part-${loc.part || 'future'}">${partLabel}</span>
             <span class="popup-category ${loc.category}">${categoryLabel}</span>
             <p class="popup-description">${loc.description}</p>
             <a href="${loc.link}" target="_blank" class="popup-link">Open in Google Maps</a>

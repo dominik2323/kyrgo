@@ -14,28 +14,16 @@ Final stretch. Karakol is the adventure hub — Dungan culture, best food in Kyr
 
 ## Hikes
 
-| Id  | Name                          | Type         | Dist          | Time     | GPX Tracks                                                                                                                                                                                                                                                                                     | Note                        |
-| --- | ----------------------------- | ------------ | ------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 01  | Altyn-Arashan Hot Springs     | Out and back | 15 km one way | 5-6h     | [AllTrails](https://www.alltrails.com/poi/kyrgyzstan/issyk-kul/altyn-arashan/%D0%90%D0%BB%D1%82%D1%8B%D0%BD-%D0%90%D1%80%D0%B0%D1%88%D0%B0%D0%BD) · [Komoot](https://www.komoot.com/highlight/988710)                                                                                          | Medium                      |
-| 02  | Ala-Kul Lake Trek             | Loop         | ~55 km        | 3-4 days | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/ala-kol-lake) · [Komoot 3-Day](https://www.komoot.com/collection/889928/stunning-kyrgyzstan-a-three-day-hike-to-ala-kul-lake) · [Wikiloc](https://www.wikiloc.com/hiking-trails/ala-kul-lake-trek-kyrgyzstan-179589487)        | Hard, AllTrails rating 4.8  |
-| 03  | Jolgolot Viewpoint            | Out and back | Short         | 2h       | [Karakol Day Trips](https://destinationkarakol.com/what-to-do/day-trips/)                                                                                                                                                                                                                      | Easy                        |
-| 04  | Kol-Tor Lake                  | Out and back | ~16 km        | Full day | [Wikiloc](https://www.wikiloc.com/hiking-trails/kol-tor-lake-hike-kyrgyzstan-174343719)                                                                                                                                                                                                        | Hard                        |
+| Id  | Name                      | Type         | Dist          | Time     | GPX Tracks                                                                                                                                                                                                                                                                              | Note                       |
+| --- | ------------------------- | ------------ | ------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 01  | Altyn-Arashan Hot Springs | Out and back | 15 km one way | 5-6h     | [AllTrails](https://www.alltrails.com/poi/kyrgyzstan/issyk-kul/altyn-arashan/%D0%90%D0%BB%D1%82%D1%8B%D0%BD-%D0%90%D1%80%D0%B0%D1%88%D0%B0%D0%BD) · [Komoot](https://www.komoot.com/highlight/988710)                                                                                   | Medium                     |
+| 02  | Ala-Kul Lake Trek         | Loop         | ~55 km        | 3-4 days | [AllTrails](https://www.alltrails.com/trail/kyrgyzstan/ysyk-kol/ala-kol-lake) · [Komoot 3-Day](https://www.komoot.com/collection/889928/stunning-kyrgyzstan-a-three-day-hike-to-ala-kul-lake) · [Wikiloc](https://www.wikiloc.com/hiking-trails/ala-kul-lake-trek-kyrgyzstan-179589487) | Hard, AllTrails rating 4.8 |
+| 03  | Jolgolot Viewpoint        | Out and back | Short         | 2h       | [Karakol Day Trips](https://destinationkarakol.com/what-to-do/day-trips/)                                                                                                                                                                                                               | Easy                       |
+| 04  | Kol-Tor Lake              | Out and back | ~16 km        | Full day | [Wikiloc](https://www.wikiloc.com/hiking-trails/kol-tor-lake-hike-kyrgyzstan-174343719)                                                                                                                                                                                                 | Hard                       |
 
 ---
 
 ## Places
-
-### Abandoned Young Pioneer Camp
-
-Massive Soviet summer camp left to rot since 1991. Near Bel-Tam on south shore. Boarded windows, crumbling walkways, dead birds in classrooms. Most doors locked but windows are... flexible. Labelled "Pionerskiy Lager' Zor'ka" on maps.
-[Google Maps](https://www.google.com/maps?q=42.15,77.10)
-[Travel Tramp](https://www.travel-tramp.com/exploring-an-abandoned-soviet-young-pioneer-summer-camp-in-kyrgyzstan/)
-
-### Barskoon Pioneer Camp
-
-Another abandoned camp on south shore. Still has a Lenin monument standing.
-[Google Maps](https://www.google.com/maps?q=42.10,77.55)
-[Alamy photos](https://www.alamy.com/stock-photo-lenin-monument-in-an-abandoned-young-pioneer-camp-in-barskoon-on-the-47785926.html)
 
 ### Aurora Sanatorium
 
@@ -88,15 +76,10 @@ Book through Destination Karakol. Home-cooked ashlan-fu, ganfan, tomomo desserts
 Rare dishes like goshnan (meat pie) you can't get in restaurants. Through Destination Karakol.
 [Adventures of Nicole](https://adventuresoflilnicki.com/karakol-where-to-eat/)
 
-### Altyn-Arashan Hot Springs
-
-Natural hot springs at end of 15km trek. Soviet-era huts, alpine meadows, views of snow-capped Palatka peak. Worth the walk.
-[Google Maps](https://www.google.com/maps?q=42.43,78.55)
-[See Her Travel](https://www.seehertravel.com/best-hiking-altyn-arashan-kyrgyzstan/)
-
 ### Karakol Town
 
 Melting pot — Kyrgyz, Dungan, Tatar, Uyghur, Russian. Best food scene in the country. Dungan mosque, Sunday animal market, gateway to mountains.
+Bishkek and Karakol both have Sunday flea markets, which usually have this type of stuff.
 [Google Maps](https://www.google.com/maps?q=42.4907,78.3936)
 [Backpack Adventures](https://www.backpackadventures.org/things-to-do-in-karakol-kyrgyzstan/)
 

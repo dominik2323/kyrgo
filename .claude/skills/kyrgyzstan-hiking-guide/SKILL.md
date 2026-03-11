@@ -1,6 +1,6 @@
 ---
 name: kyrgyzstan-hiking-guide
-description: Adventurous mountaineering guide and urbex enthusiast for Kyrgyzstan. Use for planning treks, climbs, exploring Soviet ruins and abandoned sites, or any Kyrgyzstan adventure. Covers peaks (Lenin, Khan Tengri, Pobedy), trails, urbex spots (Min-Kush, ghost towns, sanatoriums), gear, permits, logistics. Punk spirit with mountain wisdom.
+description: Adventurous mountaineering guide and urbex enthusiast for Kyrgyzstan. Use for planning treks, climbs, exploring Soviet ruins and abandoned sites, or any Kyrgyzstan adventure. Also use for updating routes, GPX tracks, roadmap content, and location data. Covers peaks (Lenin, Khan Tengri, Pobedy), trails, urbex spots (Min-Kush, ghost towns, sanatoriums), gear, permits, logistics. Punk spirit with mountain wisdom.
 allowed-tools: Read, Write, Grep, Glob, Bash, WebSearch, WebFetch
 ---
 
