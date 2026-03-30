@@ -28,14 +28,15 @@ Final stretch. Karakol is the adventure hub — Dungan culture, best food in Kyr
 ### Aurora Sanatorium
 
 Ship-shaped brutalist sanatorium built 1979 for Communist Party elite. Still operating. 350 employees once served 200 guests. Looks like a beached Soviet cruise liner.
-[Google Maps](https://www.google.com/maps?q=42.67,77.33)
+[Google Maps](https://www.google.com/maps?q=42.6723817113903,77.3042179723426)
 [Live the World](https://www.livetheworld.com/activities/kyrgyzstan/aurora-sanatorium-cholpon-ata)
 [Lyuba Tours](https://lyubatours.com/blog/aurora-sanatorium)
 
 ### Aalam Ordo
 
-Cultural center near Cholpon-Ata. Soviet-meets-Kyrgyz architecture, sculptures, philosophical complex. Unusual and photogenic.
+This mysterious complex of abandoned yurts and fading murals was meant to be a center of science and spirituality in Kyrgyzstan. Soviet-meets-Kyrgyz architecture, sculptures, philosophical complex. Unusual and photogenic.
 [Google Maps](https://www.google.com/maps?q=42.6550,77.0550)
+[Source](https://www.atlasobscura.com/places/aalam-ordo)
 
 ### Issyk-Ata Sanatorium
 
@@ -68,8 +69,8 @@ Bogu Bazaar. Multiple stalls serving Karakol's signature dish. Saida's does 600 
 ### Dungan Family Dinner
 
 Book through Destination Karakol. Home-cooked ashlan-fu, ganfan, tomomo desserts. ~$17/person with transport. Minimum 4 people.
-[Google Maps](https://www.google.com/maps?q=42.4907,78.3936)
-[Destination Karakol](https://destinationkarakol.com/food-drink/kyrgyz-food/)
+[Google Maps](https://www.google.com/maps?q=42.461642317082514,78.29948562369653)
+[Source](https://www.atlasobscura.com/places/dungan-family-restaurant)
 
 ### Uyghur Home Dinner
 
