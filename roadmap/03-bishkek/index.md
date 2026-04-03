@@ -1,4 +1,4 @@
-# Part 03 / Issyk-Kul → Bishkek
+# Part 03 / Karakol → Bishkek
 
 Final stretch. Karakol is the adventure hub — Dungan culture, best food in Kyrgyzstan, gateway to alpine treks. North shore has Soviet sanatoriums and ancient petroglyphs. Then back through the mountains to Bishkek.
 
