@@ -1,4 +1,4 @@
-# Part 02 / Son-Kul → Issyk-Kul
+# Part 02 / Son-Kul → Karakol
 
 ## Plan
 
