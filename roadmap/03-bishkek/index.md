@@ -48,21 +48,21 @@ Near Bishkek. One of Central Asia's oldest. WW2 soldier treatment center. Mass g
 ### Cholpon-Ata Petroglyphs
 
 42 hectares of Bronze Age rock carvings. 5,000+ stones. Hunting scenes, sun worship, chariots. Best light early morning or late afternoon. 800m-3km walking routes.
-[Google Maps](https://www.google.com/maps?q=42.65,77.08)
+[Google Maps](https://www.google.com/maps?q=42.6579325,77.0563989)
 [Zig Zag on Earth](https://www.zigzagonearth.com/kyrgyzstan-cholpon-ata-petroglyphs/)
 [Advantour](https://www.advantour.com/kyrgyzstan/cholpon-ata-petroglyphs.htm)
 
 ### Dungan Mosque (Karakol)
 
 Chinese Buddhist temple that's actually a mosque. Built 1907-1910 entirely of wood with zero nails. Dragons, phoenixes, pagoda minaret. Dungan refugees from China built it.
-[Google Maps](https://www.google.com/maps?q=42.4907,78.3936)
+[Google Maps](https://www.google.com/maps?q=42.497371, 78.390689)
 [Atlas Obscura](https://www.atlasobscura.com/places/dungan-mosque)
 [Advantour](https://www.advantour.com/kyrgyzstan/karakol/karakol-dungan-mosque.htm)
 
 ### Ashlan-fu Alley (Karakol)
 
 Bogu Bazaar. Multiple stalls serving Karakol's signature dish. Saida's does 600 bowls/day at 30 som (~$0.35). Cold, spicy, vinegary noodle soup. Proper hangover cure.
-[Google Maps](https://www.google.com/maps?q=42.4907,78.3936)
+[Google Maps](https://www.google.com/maps?q=42.4907167,78.3943636)
 [Atlas Obscura](https://www.atlasobscura.com/articles/what-to-eat-kyrgyzstan)
 [Destination Karakol](https://destinationkarakol.com/food-drink/kyrgyz-food/)
 
@@ -75,20 +75,8 @@ Book through Destination Karakol. Home-cooked ashlan-fu, ganfan, tomomo desserts
 ### Uyghur Home Dinner
 
 Rare dishes like goshnan (meat pie) you can't get in restaurants. Through Destination Karakol.
+[Google Maps](https://maps.google.com?ftid=0x38865ddfe1c2d1c5:0x442f9e4613c5e897&entry=gps&shh=CAE&lucs=,94297699,100795625,94284505,94231188,94280568,47071704,94218641,94282134,94286869&g_st=ic)
 [Adventures of Nicole](https://adventuresoflilnicki.com/karakol-where-to-eat/)
-
-### Karakol Town
-
-Melting pot — Kyrgyz, Dungan, Tatar, Uyghur, Russian. Best food scene in the country. Dungan mosque, Sunday animal market, gateway to mountains.
-Bishkek and Karakol both have Sunday flea markets, which usually have this type of stuff.
-[Google Maps](https://www.google.com/maps?q=42.4907,78.3936)
-[Backpack Adventures](https://www.backpackadventures.org/things-to-do-in-karakol-kyrgyzstan/)
-
-### Jyrgalan Valley
-
-60km from Karakol. Former coal mining village turned adventure tourism hub. Less crowded trails, CBT community tourism. Good for hiking and horse treks.
-[Google Maps](https://www.google.com/maps?q=42.507,78.978)
-[Journal of Nomads](https://www.journalofnomads.com/hiking-in-kyrgyzstan-jyrgalan-karakol/)
 
 ---
 
